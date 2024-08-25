@@ -1,0 +1,2 @@
+# Drug effectiveness analysis
+The analysis was carried out using R to evaluate drug performance in a population based on customers reviews, ease of use and effectiveness.Predictive model was used to assess the relationship between satisfaction and effectiveness.
